@@ -1,4 +1,11 @@
 .imagem{
 text-align: center;
 }
+body{
+    background-color: white;
+    color: rgb(3, 90, 0);
+}
 
+.texto1{
+    font-size: 25px;
+}
